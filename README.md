@@ -16,12 +16,16 @@ This Streamlit web app lets you input a YouTube video URL and search for **stock
 
 ---
 
+![image alt](https://github.com/Shriya-Guptaa/FuzzyTube/blob/main/Screenshot1(hindi).png?raw=true)
+![image alt](https://github.com/Shriya-Guptaa/FuzzyTube/blob/main/Screenshot2(english).png?raw=true)
+
+
 ## Requirements
 
 - Python 3.7+
 - Streamlit
 - pandas
-- youtube-transcript-api
+- youtube-transcript-api [@jdepoix]
 - rapidfuzz
 
 
